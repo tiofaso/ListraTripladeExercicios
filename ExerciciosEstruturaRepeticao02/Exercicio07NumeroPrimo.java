@@ -3,7 +3,7 @@ package ExerciciosEstruturaRepeticao02;
 import java.util.Scanner;
 
 //Determina se um número digitado é primo
-public class Exercicio07NumerPrimo {
+public class Exercicio07NumeroPrimo {
     public static void main(String[] args){
         System.out.println("Digite qualquer número e eu direi se ele é primo ou não!");
 
